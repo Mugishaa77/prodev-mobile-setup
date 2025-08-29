@@ -1,4 +1,4 @@
-import { Text, View, StyleSheet, Image, ImageBackground, TouchableOpacity } from "react-native";
+import { Text, View, StyleSheet, Image, ImageBackground, TouchableOpacity, Dimensions } from "react-native";
 import { SafeAreaView, SafeAreaProvider } from "react-native-safe-area-context";
 
 export default function Index() {
